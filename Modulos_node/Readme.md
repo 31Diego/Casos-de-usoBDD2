@@ -1,0 +1,24 @@
+# Necesario pergar node_modules en cada carpeta de js junto a api, index, etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

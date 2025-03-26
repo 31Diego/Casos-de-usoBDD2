@@ -8,9 +8,9 @@ class DB{
 
     public function __construct(){
        $this->host= 'localhost';
-        $this->db= 'uni_2023_short';
-        $this->user= 'nodeuser';
-        $this->password ='node2024!';
+        $this->db= 'mongo1';
+        $this->user= 'root';
+        $this->password ='';
         //$this->charset = 'utf8mb4';*/
     }
     function connect(){
