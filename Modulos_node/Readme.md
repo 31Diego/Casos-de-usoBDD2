@@ -1,4 +1,4 @@
-# Necesario pergar node_modules en cada carpeta de js junto a api, index, etc
+# Necesario pegar node_modules en cada carpeta de js junto a api, index, etc
 
 
 
